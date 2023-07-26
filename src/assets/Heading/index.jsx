@@ -4,7 +4,7 @@ import {Box,Typography} from "@mui/material";
 const Header = () => {
   return (
   <Box sx={{width:"50%",
-  p:1,
+  p:2,
   mx:"auto",
   my:2,
   borderRadius:"55px",
